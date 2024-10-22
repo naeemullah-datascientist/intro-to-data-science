@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+env.bak/
+.env
+.venv
+.egg-info/
+*.egg
+*.whl
+build/
+dist/
+
+# PyCharm files
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# MacOS files
+.DS_Store
