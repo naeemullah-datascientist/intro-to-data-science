@@ -9,7 +9,7 @@ import subprocess
 # =========================
 REPO_PATH = "/workspaces/intro-to-data-science"
 TARGET_FOLDER = "/workspaces/intro-to-data-science/Py-programming-concepts"
-GITHUB_EMAIL = "sa1670001@gmail.com"
+GITHUB_EMAIL = "naeemullahmehmoodasghar@gmail.com"
 
 # human-like behavior config
 MIN_COMMITS_PER_DAY = 1
